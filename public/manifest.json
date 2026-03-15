@@ -1,0 +1,20 @@
+{
+  "short_name": "WillOfFire",
+  "name": "Will Of Fire - Topic Manager",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/fire/192/192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://picsum.photos/seed/fire/512/512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#EA580C",
+  "background_color": "#F5F5F5"
+}
